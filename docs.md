@@ -1,0 +1,3 @@
+This document shares how to use the robotic SuperSuction 400 vacuum cleaner.  The vacuum cleaner has two features that are new in its industry:  self-driving capabilities and programmable settings. Read this document to learn how to use these features. 
+
+Take the robotic SuperSuction 400 vacuum cleaner out of the box. Now, press the black "self-driving mode" button on top of the vacuum cleaner. You will hear an automated voice greet you.  At this point, you are free to release your hold of the vacuum cleaner.
