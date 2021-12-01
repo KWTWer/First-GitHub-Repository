@@ -1,4 +1,5 @@
-This document shares how to use the robotic JumboSuction 400 vacuum cleaner.  
+
+This document shares how to use the automated SuperSuction 400 vacuum cleaner.  
 
 Note that this vacuum cleaner is totally safe to use for adults and children. Read this document to learn how to use these features. 
 
